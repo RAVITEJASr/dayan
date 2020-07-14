@@ -1,0 +1,11 @@
+.first{
+	border: 5px solid #ddd;
+	margin: 5px;
+	width: 1325px;
+	text-align: center;
+}
+img{
+	width: 100%
+	padding: 20px;
+	text-align: center;
+}
